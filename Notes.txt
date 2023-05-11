@@ -1,0 +1,11 @@
+1.Cloud Server -- Only Login  --- issue File Access Permission,View all end user,transactions,Attackers
+
+2.User  -- Login & Register   --- Request for data,Res,Download,send One time Sk to Mobile
+
+3.Trustee -- Only Login       --- View all request,Generate Secret key,View all attackers
+
+4.Authority -- Only Login     --- Upload data and req permission to cloud for data access permission for end user,View Permission response
+
+
+
+
